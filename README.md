@@ -1,5 +1,6 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
 [![Build Status](https://dev.azure.com/stafla/Calculator/_apis/build/status/stafla111.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/stafla/Calculator/_build/latest?definitionId=3&branchName=refs%2Fpull%2F1%2Fmerge)
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
